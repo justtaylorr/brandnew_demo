@@ -1,0 +1,88 @@
+.content-wrap {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 72px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  opacity: .9;
+  font-family:"Times", serif;
+}
+
+p {
+  text-align: center;
+  font-family: "Times", serif;
+  margin: 0 auto;
+  max-width: 50%;
+}
+
+.album {
+  text-align: center;
+}
+
+ul {
+  text-align: left;
+  font-family: "Times", serif;
+  margin: 0 auto;
+  max-width: 50%;
+}
+
+ol {
+  text-align: left;
+  margin: 0 auto;
+  max-width: 30%;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Times", serif;
+  color: #821236;
+}
+
+
+h2,
+h3 {
+  text-align: center;
+  font-family: "Times", serif;
+  text-transform: uppercase;
+  color: #821236;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 32px;
+}
+
+.track {
+  font-size: 16px;
+
+}
+
+.entitled {
+  font-size: 24px;
+}
+
+table {
+  text-align: center;
+  max-width: 70%;
+  margin: 0 auto;
+}
+
+th,
+td {
+  border: 1px solid black;
+  font-family: "Times", serif;
+  padding: 15px;
+  font-size: 20px;
+}
+
+th {
+  background-color: #5A243D;
+  color: white;
+}
