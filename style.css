@@ -18,7 +18,9 @@ p {
   margin: 0 auto;
   max-width: 50%;
 }
-
+.image {
+  max-width: 100%;
+}
 .album {
   text-align: center;
 }
